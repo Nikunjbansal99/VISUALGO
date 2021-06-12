@@ -33,10 +33,10 @@ Step 2: Step up the environment for the proper execution of a Console Graphic C 
 Step 3: Create a menu for the user using Switch case for choosing which algorithm or data structure he wants to visualize from the given list.<br>
 Step 4: Create the various algorithm’s visualization with the help of graphics.h library.<br>
 Step 5: Create algorithm visualization of –<br>
-	* Linear Search<br>
-	* Binary Search<br>
-	* Bubble Sort<br>
-	* Insertion Sort<br>
+	● Linear Search<br>
+	● Binary Search<br>
+	● Bubble Sort<br>
+	● Insertion Sort<br>
 Step 6: Take input from the user for his choice.<br>
 Step 7: Initialize the Window’s BGI window for the visualization of the algorithms.<br>
 Step 8: Display the algorithm as chosen by the user.<br>
@@ -52,11 +52,11 @@ Step 10: Stop.<br>
 
 # Screenshots 
 <p float="left">
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img.PNG"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img1.PNG"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img2.PNG"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img3.PNG"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img4.PNG"/>
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img.PNG" />
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img1.PNG" width="500" height="500" />
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img2.PNG" width="500" height="500" />
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img3.PNG" width="500" height="500" />
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img4.PNG" width="500" height="500" />
 </p>
 <br>
 
