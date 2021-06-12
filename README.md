@@ -52,11 +52,11 @@ Step 10: Stop.<br>
 
 # Screenshots 
 <p float="left">
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img.png"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img1.png"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img2.png"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img3.png"/>
- <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img4.png"/>
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img.PNG"/>
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img1.PNG"/>
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img2.PNG"/>
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img3.PNG"/>
+ <img src="https://github.com/Nikunjbansal99/VISUAL-ALGO/blob/main/img/img4.PNG"/>
 </p>
 <br>
 
