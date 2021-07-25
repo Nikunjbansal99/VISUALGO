@@ -1,4 +1,4 @@
-# VISUAL-ALGO
+# VISUALGO
 
 ### Minor 1 Project
 
